@@ -1,5 +1,3 @@
-"# xor-test"
-
 # XOR Encryptor
 
 > [!NOTE]
